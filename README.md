@@ -129,10 +129,6 @@ const developer = {
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faizzlovely&theme=onedark&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-
 ---
 
 # 💼 Development Workflow
