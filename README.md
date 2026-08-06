@@ -2,7 +2,7 @@
 
 # ⚡ FAIZZLOVELY
 
-### Full Stack Developer • Web Developer • Backend Engineer
+### Full Stack Developer • Web Developer • Backend Engineer • Frontend Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+Modern+Web+Applications;Learning+Something+New+Everyday;Code.+Build.+Deploy." alt="Typing SVG" />
 
