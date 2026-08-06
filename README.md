@@ -29,12 +29,6 @@ const faizz = {
     tools: ["Git", "VS Code", "Postman"]
   },
 
-  currentlyLearning: [
-    "TypeScript",
-    "Docker",
-    "Cloud"
-  ],
-
   hobbies: [
     "Building Web Apps",
     "Learning New Tech",
