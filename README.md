@@ -21,6 +21,7 @@ const faizz = {
   status: "Coding...",
   role: "Full Stack Developer",
   location: "🇮🇩 Indonesia",
+  age: 17,
 
   tech: {
     frontend: ["React", "Next.js", "Tailwind CSS"],
