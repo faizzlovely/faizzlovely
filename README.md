@@ -1,51 +1,46 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,11,20,24,30&text=FAIZZLOVELY&fontColor=ffffff&fontSize=72&animation=twinkling&fontAlignY=38"/>
+# ⚡ FAIZZLOVELY
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=1000&lines=🚀+Full+Stack+Developer;💜+Backend+Engineer;⚡+Creative+Programmer;🔥+Open+Source+Enthusiast;✨+Always+Learning"/>
+### Full Stack Developer • Web Developer • Backend Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+Modern+Web+Applications;Learning+Something+New+Everyday;Code.+Build.+Deploy." />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=faizzlovely&style=for-the-badge&color=9333EA">
-
-<img src="https://img.shields.io/github/followers/faizzlovely?style=for-the-badge&logo=github&color=8B5CF6">
-
-<img src="https://img.shields.io/github/stars/faizzlovely?style=for-the-badge&logo=github&color=06B6D4">
-
-<img src="https://img.shields.io/badge/Focus-FullStack-blueviolet?style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=faizzlovely&style=for-the-badge&color=9333EA" />
+<img src="https://img.shields.io/github/followers/faizzlovely?style=for-the-badge&logo=github&color=8B5CF6" />
+<img src="https://img.shields.io/github/stars/faizzlovely?style=for-the-badge&logo=github&color=06B6D4" />
 
 </div>
 
 ---
 
-# 💜 About Me
+# 👋 About Me
 
-```typescript
-const faizz = {
-
+```ts
+const developer = {
     name: "Faizz",
-
     role: "Full Stack Developer",
+    country: "Indonesia",
 
-    location: "Indonesia",
-
-    passion: [
-        "Web Development",
-        "Backend Engineering",
-        "Modern UI/UX",
-        "Automation",
-        "API Development"
+    focus: [
+        "Frontend Development",
+        "Backend Development",
+        "REST API",
+        "UI / UX",
+        "Web Application"
     ],
 
     currentlyLearning: [
+        "React",
         "Next.js",
         "TypeScript",
         "Laravel",
-        "Docker",
-        "Cloud"
+        "Docker"
     ],
 
-    motto: "Build something people love."
+    motto: "Keep Learning, Keep Building."
 }
 ```
 
@@ -53,7 +48,7 @@ const faizz = {
 
 # 🚀 Tech Stack
 
-## 🎨 Frontend
+### Frontend
 
 <p>
 
@@ -61,7 +56,7 @@ const faizz = {
 
 </p>
 
-## ⚙ Backend
+### Backend
 
 <p>
 
@@ -69,7 +64,7 @@ const faizz = {
 
 </p>
 
-## 🗄 Database
+### Database
 
 <p>
 
@@ -77,15 +72,7 @@ const faizz = {
 
 </p>
 
-## ☁ DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,vercel,netlify,githubactions"/>
-
-</p>
-
-## 🛠 Tools
+### Tools
 
 <p>
 
@@ -95,13 +82,38 @@ const faizz = {
 
 ---
 
-# 📊 GitHub Statistics
+# 📂 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 💬 Forum Chat | Real-time discussion platform |
+| 👕 Website Baju | Online clothing store |
+| 🛒 Tech Store | Modern electronics store |
+| ⚙ Sparepart | Sparepart management website |
+| 📱 Gadget | Gadget showcase platform |
+| ✅ To Do List | Task management application |
+| 💰 SPP Digital | School payment system |
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Build scalable web applications
+- 📚 Learn cloud deployment
+- ⚡ Improve backend architecture
+- 🛠 Master Docker
+- 🤝 Contribute to open source
+- 💡 Create useful software
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=faizzlovely&show_icons=true&theme=radical&hide_border=true">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=faizzlovely&show_icons=true&theme=radical&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizzlovely&layout=compact&theme=radical&hide_border=true">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizzlovely&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -111,7 +123,7 @@ const faizz = {
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=faizzlovely&theme=radical&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=faizzlovely&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -121,7 +133,7 @@ const faizz = {
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizzlovely&theme=react-dark&bg_color=0D1117&color=00E5FF&line=A855F7&point=FF00FF&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizzlovely&theme=react-dark&hide_border=true"/>
 
 </p>
 
@@ -131,69 +143,71 @@ const faizz = {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=faizzlovely&theme=radical&no-frame=true&margin-w=15&margin-h=15">
+<img src="https://github-profile-trophy.vercel.app/?username=faizzlovely&theme=radical&no-frame=true&margin-w=15"/>
 
 </p>
 
 ---
 
-# ⚡ Current Focus
+# 💼 Development Workflow
 
-🟣 Building Modern Web Applications
-
-🔵 Backend Architecture
-
-🩷 REST API Development
-
-🟢 Clean Code
-
-🟡 Performance Optimization
-
-☁ Cloud Deployment
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🌐 Portfolio | Personal Website | 🚀 |
-| 🤖 Automation | Scripts & Bots | ⚡ |
-| 💻 Full Stack App | React + Backend | 🟢 |
-| 📦 API Service | REST API | 🟣 |
+```text
+💡 Idea
+   │
+   ▼
+🎨 Design
+   │
+   ▼
+💻 Development
+   │
+   ▼
+🧪 Testing
+   │
+   ▼
+🚀 Deployment
+   │
+   ▼
+📈 Maintenance
+```
 
 ---
 
-# 📅 2026 Goals
+# 🌱 Learning Journey
 
-- ✅ Build Production Ready Apps
-- 🔄 Learn Docker
-- 🔄 Learn Kubernetes
-- 🔄 Contribute Open Source
-- 🔄 Build SaaS Project
-- 🔄 Improve UI/UX
-- 🔄 Master TypeScript
+```text
+React         ██████████ 90%
+
+Node.js       █████████░ 85%
+
+Laravel       █████████░ 85%
+
+TypeScript    ████████░░ 75%
+
+Docker         ██████░░░ 60%
+
+Cloud          █████░░░░ 45%
+```
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/faizzlovely">
-<img src="https://skillicons.dev/icons?i=github">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="#">
-<img src="https://skillicons.dev/icons?i=instagram">
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 <a href="#">
-<img src="https://skillicons.dev/icons?i=discord">
+<img src="https://skillicons.dev/icons?i=discord"/>
 </a>
 
 <a href="#">
-<img src="https://skillicons.dev/icons?i=gmail">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
@@ -202,8 +216,10 @@ const faizz = {
 
 <div align="center">
 
-## ⚡ BUILD • CREATE • INNOVATE ⚡
+## 💜 Thanks for visiting my profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=6,11,20,24,30"/>
+*"Code is not just about solving problems, it's about creating experiences."*
+
+⭐ If you like my projects, don't forget to leave a star!
 
 </div>
