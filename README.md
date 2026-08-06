@@ -182,23 +182,6 @@ Cloud          █████░░░░ 45%
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=faizzlovely&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizzlovely&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400"
-  />
-</p>
-
----
-
-<div align="center">
-
 ## 💜 Thanks for visiting my profile
 
 *"Code is not just about solving problems, it's about creating experiences."*
