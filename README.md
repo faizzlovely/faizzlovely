@@ -16,32 +16,42 @@
 
 ---
 
-# 👋 About Me
-
 ```ts
-const developer = {
-    name: "Faizz",
-    role: "Full Stack Developer",
-    country: "Indonesia",
+const faizz = {
+  status: "Coding...",
+  role: "Full Stack Developer",
+  location: "🇮🇩 Indonesia",
 
-    focus: [
-        "Frontend Development",
-        "Backend Development",
-        "REST API",
-        "UI / UX",
-        "Web Application"
-    ],
+  tech: {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "Laravel"],
+    database: ["MySQL", "MongoDB"],
+    tools: ["Git", "VS Code", "Postman"]
+  },
 
-    currentlyLearning: [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Laravel",
-        "Docker"
-    ],
+  currentlyLearning: [
+    "TypeScript",
+    "Docker",
+    "Cloud"
+  ],
 
-    motto: "Keep Learning, Keep Building."
-}
+  hobbies: [
+    "Building Web Apps",
+    "Learning New Tech",
+    "Open Source"
+  ],
+
+  lifeCycle() {
+    return [
+      "☕ Coffee",
+      "💻 Code",
+      "🐞 Debug",
+      "🚀 Deploy",
+      "🔁 Repeat"
+    ];
+  }
+};
+```
 ```
 
 ---
