@@ -1,281 +1,242 @@
 <div align="center">
 
-# 👋 Hi, I'm Faiz
+# ⚡ FAIZZLOVELY
 
-### 🚀 Full Stack Developer | Backend Engineer | Web Developer
+### Full Stack Developer • Web Developer • Backend Engineer • Frontend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Backend+Engineer;Always+Learning+New+Technology;Build.+Learn.+Improve." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+Modern+Web+Applications;Learning+Something+New+Everyday;Code.+Build.+Deploy." alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=faizzlovely&style=for-the-badge&color=8B5CF6"/>
-
-<img src="https://img.shields.io/github/followers/faizzlovely?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/faizzlovely?style=for-the-badge&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=faizzlovely&style=for-the-badge&color=9333EA" />
+<img src="https://img.shields.io/github/followers/faizzlovely?style=for-the-badge&logo=github&color=8B5CF6" />
+<img src="https://img.shields.io/github/stars/faizzlovely?style=for-the-badge&logo=github&color=06B6D4" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+```ts
+const faizz = {
+  name: "Faiz",
+  role: "Full Stack Developer",
+  status: "Coding...",
+  location: "🇮🇩 Indonesia",
 
-```javascript
-const faiz = {
-    name: "Faiz",
-    location: "Indonesia 🇮🇩",
-    role: "Full Stack Developer",
+  frontend: [
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "Tailwind CSS",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Vite"
+  ],
 
-    currentlyLearning: [
-        "Next.js",
-        "Express.js",
-        "Prisma ORM",
-        "System Design"
-    ],
+  backend: [
+    "Node.js",
+    "Express.js",
+    "PHP",
+    "Laravel"
+  ],
 
-    currentlyBuilding: [
-        "SPP Digital",
-        "Forum Chat",
-        "Task Management App"
-    ],
+  database: [
+    "MySQL",
+    "MongoDB",
+    "SQLite",
+    "Firebase",
+    "Prisma ORM"
+  ],
 
-    favoriteTools: [
-        "VS Code",
-        "Git",
-        "GitHub",
-        "Postman",
-        "Figma",
-        "ChatGPT",
-        "OpenCode",
-        "Antigravity"
-    ],
+  authentication: [
+    "JWT"
+  ],
 
-    motto: "Never Stop Learning 🚀"
-}
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Figma",
+    "Postman",
+    "npm"
+  ],
+
+  aiTools: [
+    "ChatGPT",
+    "OpenCode",
+    "Antigravity"
+  ],
+
+  hobbies: [
+    "Building Web Apps",
+    "Learning New Technology",
+    "Open Source"
+  ],
+
+  lifeCycle() {
+    return [
+      "☕ Coffee",
+      "💻 Code",
+      "🐞 Debug",
+      "🚀 Deploy",
+      "🔁 Repeat"
+    ];
+  }
+};
 ```
 
 ---
 
 # 🚀 Tech Stack
 
-## 🎨 Frontend
+### 🎨 Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=typescript"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=vite"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,vite&theme=dark"/>
 </p>
 
----
+### ⚙️ Backend
 
-## ⚙ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=php"/>
-
-<img src="https://skillicons.dev/icons?i=laravel"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&theme=dark"/>
 </p>
 
----
+### 🗄️ Database & ORM
 
-## 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://skillicons.dev/icons?i=prisma"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,prisma&theme=dark"/>
 </p>
 
----
+### 🛠️ Tools
 
-## 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-<img src="https://skillicons.dev/icons?i=npm"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm&theme=dark"/>
 </p>
 
----
+### 🤖 AI Tools
 
-## 🤖 AI Tools
-
-<p>
-
+<p align="left">
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/OpenCode-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Antigravity-6C63FF?style=for-the-badge"/>
-
 </p>
 
 ---
 
 # 📂 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 💰 SPP Digital | School Payment Information System |
-| 💬 Forum Chat | Real-time Chat Application |
-| 👕 Clothing Store | Online Fashion Store |
-| 🛒 Tech Store | E-Commerce Website |
-| ⚙ Sparepart | Sparepart Management System |
-| 📱 Gadget Store | Product Showcase Website |
-| ✅ To Do List | Task Management Application |
-
----
-
-# 📊 GitHub Overview
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizzlovely&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faizzlovely&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faizzlovely&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=faizzlovely&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 💻 Development Workflow
-
-```text
-💡 Idea
-    │
-    ▼
-🎨 Design UI/UX
-    │
-    ▼
-💻 Development
-    │
-    ▼
-🧪 Testing
-    │
-    ▼
-🚀 Deployment
-    │
-    ▼
-📈 Maintenance
-```
+| Project | Tech Stack | Description |
+|----------|------------|-------------|
+| 💬 Forum Chat | React • Node.js • Socket.io | Real-time discussion platform |
+| 👕 Website Baju | Laravel • MySQL | Online clothing store |
+| 🛒 Tech Store | Next.js • Express | Modern electronics store |
+| ⚙️ Sparepart | Laravel • MySQL | Sparepart management website |
+| 📱 Gadget | Next.js • Express | Gadget showcase platform |
+| ✅ To Do List | Flutter • Dart | Task management application |
+| 💰 SPP Digital | Next.js • Express • Prisma • MySQL | School payment system |
 
 ---
 
 # 🎯 Current Goals
 
 - 🚀 Build scalable web applications
-- 📚 Learn System Design
-- ⚡ Improve Backend Architecture
-- 🗄 Master Database Design
+- 📚 Learn cloud deployment
+- ⚡ Improve backend architecture
+- 🐳 Master Docker
 - 🤝 Contribute to Open Source
-- 🌎 Learn Cloud Deployment
+- 💡 Create useful software
 
 ---
 
-# 🌱 Currently Learning
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=faizzlovely&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizzlovely&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+# 💼 Development Workflow
 
 ```text
-HTML/CSS         ██████████ 100%
-
-JavaScript       █████████░ 90%
-
-TypeScript       ████████░░ 80%
-
-React            █████████░ 90%
-
-Next.js          ████████░░ 80%
-
-Node.js          ████████░░ 80%
-
-Express.js       ████████░░ 80%
-
-Laravel          ████████░░ 80%
-
-Prisma ORM       ███████░░░ 70%
-
-MySQL            █████████░ 90%
-
-MongoDB          ███████░░░ 70%
-
-Docker           ███░░░░░░░ 30%
-
-Cloud            ██░░░░░░░░ 20%
+💡 Idea
+   │
+   ▼
+🎨 UI / UX Design
+   │
+   ▼
+💻 Development
+   │
+   ▼
+🧪 Testing
+   │
+   ▼
+🚀 Deployment
+   │
+   ▼
+📈 Maintenance
 ```
 
 ---
 
-# 🤝 Connect With Me
+# 🌱 Learning Journey
 
-<p>
+```text
+HTML/CSS      ██████████ 100%
+
+JavaScript    █████████░ 90%
+
+TypeScript    ████████░░ 80%
+
+React         █████████░ 90%
+
+Next.js       ████████░░ 80%
+
+Node.js       ████████░░ 80%
+
+Express.js    ████████░░ 80%
+
+Laravel       ████████░░ 80%
+
+Prisma ORM    ███████░░░ 70%
+
+MySQL         █████████░ 90%
+
+MongoDB       ███████░░░ 70%
+
+Docker        ███░░░░░░░ 30%
+
+Cloud         ██░░░░░░░░ 20%
+```
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
 
 <a href="https://github.com/faizzlovely">
-
 <img src="https://skillicons.dev/icons?i=github"/>
-
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+## 💜 Thanks for visiting my profile
 
-## 💜 Thanks for Visiting
+> **"Code is not just about solving problems, it's about creating experiences."**
 
-*"Code is not just about solving problems, it's about creating solutions that matter."*
-
-⭐ Don't forget to leave a **Star** if you like my projects.
-
-</div>
+⭐ If you like my projects, don't forget to leave a **Star**.
