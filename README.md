@@ -19,59 +19,24 @@
 ```ts
 const faizz = {
   name: "Faiz",
-  role: "Full Stack Developer",
-  status: "Coding...",
   location: "🇮🇩 Indonesia",
 
-  frontend: [
-    "HTML",
-    "CSS",
-    "Bootstrap",
-    "Tailwind CSS",
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Next.js",
-    "Vite"
+  currentlyBuilding: [
+    "SPP Digital",
+    "Forum Chat",
+    "Task Management App"
   ],
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "PHP",
-    "Laravel"
+  currentlyLearning: [
+    "System Design",
+    "Prisma ORM",
+    "Docker"
   ],
 
-  database: [
-    "MySQL",
-    "MongoDB",
-    "SQLite",
-    "Firebase",
-    "Prisma ORM"
-  ],
-
-  authentication: [
-    "JWT"
-  ],
-
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Figma",
-    "Postman",
-    "npm"
-  ],
-
-  aiTools: [
-    "ChatGPT",
-    "OpenCode",
-    "Antigravity"
-  ],
-
-  hobbies: [
-    "Building Web Apps",
-    "Learning New Technology",
+  interests: [
+    "Web Development",
+    "Backend Development",
+    "UI/UX",
     "Open Source"
   ],
 
