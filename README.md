@@ -107,16 +107,6 @@ const developer = {
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=faizzlovely&show_icons=true&theme=radical&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizzlovely&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
-
 ---
 
 # 🔥 GitHub Streak
